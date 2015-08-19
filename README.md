@@ -167,4 +167,4 @@ Here is a list of the future implementations of the API:
 
 Contact
 =======
-If you have any doubts or want to help, please contact me tomirammstein@gmail.com
+If you have any doubts or want to help, please contact me tomasjuarez.exq@gmail.com.
